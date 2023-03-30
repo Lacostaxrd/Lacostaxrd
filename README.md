@@ -17,3 +17,5 @@
 
 <h1> 💎 My achievements </h1>
 <img src="https://github-profile-trophy.vercel.app/?username=Lacostaxrd&theme=onedark" /> 
+
+https://lanyard-profile-readme.vercel.app/api/1090959514800496702/?theme=light&bg=809ecf&animated=true&hideDiscrim=true&borderRadius=30px
